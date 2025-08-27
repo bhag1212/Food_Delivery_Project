@@ -28,4 +28,3 @@ app.use('/api/order',orderRouter);
 app.listen(port,()=>{
     console.log('server running');
 })
-// mongodb+srv://Bhagya:<db_password>@cluster0.r3nxpxx.mongodb.net/?
